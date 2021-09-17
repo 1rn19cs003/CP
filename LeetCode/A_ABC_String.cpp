@@ -42,7 +42,29 @@
 //     }
 // }
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <string>
+#include <map>
+#include <unordered_map>
+#include <list>
+#include <deque>
+#include <array>
+#include <forward_list>
+#include <queue>
+#include <set>
+#include <unordered_set>
+#include <iterator>
+#include <cmath>
+#include <numbers>
+#include <ios>
+#include <iostream>
+#include <istream>
+#include <fstream>
+#include <cstdio>
+
+
 
 using namespace std;
 
