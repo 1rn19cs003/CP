@@ -1,8 +1,25 @@
-#include <bits/stdc++.h>
-// #include <algorithm>
-// #include <chrono>
-
-using namespace std;
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <string>
+#include <map>
+#include <cstring>
+#include <unordered_map>
+#include <list>
+#include <deque>
+#include <array>
+#include <stack>
+#include <forward_list>
+#include <queue>
+#include <set>
+#include <unordered_set>
+#include <iterator>
+#include <cmath>
+#include <ios>
+#include <iostream>
+#include <istream>
+#include <fstream>
+#include <cstdio>
 using namespace std::chrono;
 using namespace std;
 void helper(int r, int c, vector<vector<char>> &a, map<pair<int, int>, map<int, int>> &mp, vector<map<int, int>> row, vector<map<int, int>> col)
